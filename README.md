@@ -10,8 +10,7 @@ CAD drawings and scripts for generating other CAD drawing of the boxes that the 
 	That is all so far.
 
 ## How it works:
-For each console, a dxf should be generated per layer. this is what the makefile in the folder dxf_files is for. It is a rather specific makefile however. If anybody fancies writing a tool to generate this makefile from the SVG then go ahead, you can ask Dan for details on what it needs to do.
+(This just got long and complicated! I'll update this bit soon!)
 
-These dxfs are then used to create the 3D model in OpenSCAD, this can be used to make sure that things will fit properly.
 
 The dxf files that will need laser cutting for each console X are the consoleX_ply.dxf and consoleX_acrylic.dxf. The consoleX_print.dxf is to be printed on A3 paper and manualy cut, trimmed and whatnot.

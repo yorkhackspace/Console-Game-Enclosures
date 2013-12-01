@@ -1,4 +1,6 @@
 
 *~
 *.dxf
+*.stl
+*.stl.deps
 
