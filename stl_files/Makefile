@@ -1,2 +1,2 @@
-console1.stl: ../scad_files/console1.scad
-	openscad -m make -o $@ -d $@.deps $<
+%.stl: ../scad_files/%.scad
+	openscad -D 'name="console1"' -m make -o $@ -d $@.deps $<
