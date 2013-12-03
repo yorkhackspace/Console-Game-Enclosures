@@ -3,4 +3,5 @@
 *.dxf
 *.stl
 *.stl.deps
+dxf_files/Makefile
 
