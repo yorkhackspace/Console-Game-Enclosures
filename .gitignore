@@ -4,4 +4,5 @@
 *.stl
 *.stl.deps
 dxf_files/Makefile
+svg_files/*.png
 
