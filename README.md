@@ -4,13 +4,17 @@ Console-Game-Enclosures
 CAD drawings and scripts for generating other CAD drawing of the boxes that the electronics for the space-console games will go in.
 
 ## In this repo we have...
-* An OpenSCAD script for making a 3D model of the console from our DXFs ("dxfsTo3D.scad")
-* A folder containing an SVG file for each console ("svg_files": currently just console1.svg). This SVG has three layers, a ply layer, a print layer and an acrylic layer. The idea is that most things mount in the ply layer, controls poke through the acrylic layer and the print layer is just some paper sandwitched between the two. Clear acrylic will be used so that the printed layer is seen through the top of the console.
-* A folder for the auto-generated dxf files ("dxf_files") to generate the dxfs, enter this directory and run make.
+* OpenSCAD scripts for making 3D models of the console from our DXFs ("scad\_files/SVGtoSTL\_Ply.scad" and \_Acrylic.scad)
+* A folder containing an SVG file for each console ("svg\_files": currently just console1.svg). This SVG has three layers, a ply layer, a print layer and an acrylic layer. There is also an info layer but that's just for reference. The idea is that most things mount in the ply layer, controls poke through the acrylic layer and the print layer is just some paper sandwitched between the two. Clear acrylic will be used so that the printed layer is seen through the top of the console.
+* An auto-generated folder for the auto-generated dxf files ("dxf\_files").To generate the dxfs, enter this directory and run make. Note that this directory will only exist if you have called make in the parent directory. See below...
 	That is all so far.
 
 ## How it works:
-(This just got long and complicated! I'll update this bit soon!)
 
+* Step 1 is to enter the root director for this repo and run make. This should create the dxf\_files folder and generate a make file within it.
+* Step 2 is to enter the new dxf\_files directory and run make. This will actually extract the dxf files from the inkscape svg.
+* Step 3 is to convert these files to STLs so they can be visualised in meshlab or blender or similar, this is done by entering the stl\_files directory and running make with the target name as the svg file name (for example 'make console1' to create the STL files for console1.svg).
 
-The dxf files that will need laser cutting for each console X are the consoleX_ply.dxf and consoleX_acrylic.dxf. The consoleX_print.dxf is to be printed on A3 paper and manualy cut, trimmed and whatnot.
+I will try to get all of these make files to chain together nicely so this is all automatic.
+
+The dxf files that will need laser cutting for each console X are the consoleX\_ply.dxf and consoleX\_acrylic.dxf. The consoleX\_print.dxf is to be printed on A3 paper and manualy cut, trimmed and whatnot.
