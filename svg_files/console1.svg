@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="console1.svg">
+   sodipodi:docname="console1.svg"
+   inkscape:export-filename="/home/daniel/Console-Game-Enclosures/svg_files/console1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62848914"
-     inkscape:cx="260.26278"
-     inkscape:cy="604.42535"
+     inkscape:zoom="0.88134241"
+     inkscape:cx="514.77161"
+     inkscape:cy="514.66537"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -524,7 +527,8 @@
      inkscape:label="Print"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3070"
@@ -544,7 +548,7 @@
        x="61.503353"
        y="495.21216" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:10.62992126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:#000000;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect2987-5"
        width="1027.5591"
        height="1027.5591"
@@ -1365,8 +1369,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="INFO"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:10.96876812px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1524,30 +1527,31 @@
          id="tspan4707-5">inserted after laters are joined</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.96876812px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="771.43634"
-       y="340.80008"
+       style="font-size:10.21668434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="694.28571"
+       y="386.61487"
        id="text3984-1-4-7"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0102328,0.98987087)"><tspan
          sodipodi:role="line"
-         x="771.43634"
-         y="340.80008"
+         x="694.28571"
+         y="386.61487"
          id="tspan3988-3-2-1">Note that these buttons</tspan><tspan
          sodipodi:role="line"
-         x="771.43634"
-         y="354.51105"
+         x="694.28571"
+         y="399.38571"
          id="tspan5381">are too small to mount in </tspan><tspan
          sodipodi:role="line"
-         x="771.43634"
-         y="368.22198"
+         x="694.28571"
+         y="412.15659"
          id="tspan5383">the ply layer, they mount </tspan><tspan
          sodipodi:role="line"
-         x="771.43634"
-         y="381.93295"
+         x="694.28571"
+         y="424.92743"
          id="tspan5385">only in the acrylic layer, </tspan><tspan
          sodipodi:role="line"
-         x="771.43634"
-         y="395.64392"
+         x="694.28571"
+         y="437.6983"
          id="tspan5387">insert after layers joined.</tspan></text>
   </g>
 </svg>
