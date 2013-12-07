@@ -5787,11 +5787,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6232032"
-     inkscape:cx="456.28074"
-     inkscape:cy="609.05484"
+     inkscape:zoom="0.88134241"
+     inkscape:cx="474.41329"
+     inkscape:cy="363.64961"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
@@ -5815,7 +5815,8 @@
      inkscape:label="Print"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        y="-26.895554"
        x="634.9165"
@@ -16670,6 +16671,13 @@
        x="61.503353"
        y="495.21216" />
     <rect
+       style="fill:#553838;fill-opacity:1;stroke:none"
+       id="rect12403"
+       width="348.20105"
+       height="572.84686"
+       x="678.75134"
+       y="451.50299" />
+    <rect
        style="fill:none;stroke:#000000;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect2987-5"
        width="1027.5591"
@@ -16939,7 +16947,7 @@
              style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1" /></flowRegion><flowPara
            id="flowPara3076-5-6-7-7">X &lt;remove&gt; X</flowPara></flowRoot>    </g>
     <g
-       transform="translate(-331.55482,-484.23871)"
+       transform="translate(-325.55527,-484.23871)"
        style="stroke:#ff0000;stroke-opacity:1;display:inline"
        id="g4464-8-9">
       <flowRoot
@@ -17066,7 +17074,7 @@
          id="flowPara5395-3-1-2">UNWIND</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3258"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Xolonium;-inkscape-font-specification:Xolonium Bold"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Xolonium;-inkscape-font-specification:Xolonium Bold"
        transform="translate(677.00048,774.94248)"><flowRegion
          id="flowRegion3260"><rect
            id="rect3262"
@@ -17074,7 +17082,7 @@
            height="106.65549"
            x="35.173618"
            y="189.06544"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Xolonium;-inkscape-font-specification:Xolonium Bold" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Xolonium;-inkscape-font-specification:Xolonium Bold" /></flowRegion><flowPara
          id="flowPara3264">SpaceHack</flowPara></flowRoot>    <rect
        ry="0"
        y="215.19238"
@@ -17089,7 +17097,7 @@
        transform="translate(-28.116397,-3.1641779)">
       <path
          transform="matrix(0.77907478,0,0,0.74661333,82.44084,128.96981)"
-         d="m 389.60936,509.4379 c 0,7.36341 -5.72051,13.33264 -12.77712,13.33264 -7.0566,0 -12.77711,-5.96923 -12.77711,-13.33264 0,-7.36342 5.72051,-13.33264 12.77711,-13.33264 7.05661,0 12.77712,5.96922 12.77712,13.33264 z"
+         d="m 389.60936,509.4379 a 12.777113,13.33264 0 1 1 -25.55423,0 12.777113,13.33264 0 1 1 25.55423,0 z"
          sodipodi:ry="13.33264"
          sodipodi:rx="12.777113"
          sodipodi:cy="509.4379"
@@ -17099,7 +17107,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.77907478,0,0,0.74661333,347.86762,129.10723)"
-         d="m 389.60936,509.4379 c 0,7.36341 -5.72051,13.33264 -12.77712,13.33264 -7.0566,0 -12.77711,-5.96923 -12.77711,-13.33264 0,-7.36342 5.72051,-13.33264 12.77711,-13.33264 7.05661,0 12.77712,5.96922 12.77712,13.33264 z"
+         d="m 389.60936,509.4379 a 12.777113,13.33264 0 1 1 -25.55423,0 12.777113,13.33264 0 1 1 25.55423,0 z"
          sodipodi:ry="13.33264"
          sodipodi:rx="12.777113"
          sodipodi:cy="509.4379"
@@ -17109,7 +17117,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.77907478,0,0,0.74661333,82.345052,238.67662)"
-         d="m 389.60936,509.4379 c 0,7.36341 -5.72051,13.33264 -12.77712,13.33264 -7.0566,0 -12.77711,-5.96923 -12.77711,-13.33264 0,-7.36342 5.72051,-13.33264 12.77711,-13.33264 7.05661,0 12.77712,5.96922 12.77712,13.33264 z"
+         d="m 389.60936,509.4379 a 12.777113,13.33264 0 1 1 -25.55423,0 12.777113,13.33264 0 1 1 25.55423,0 z"
          sodipodi:ry="13.33264"
          sodipodi:rx="12.777113"
          sodipodi:cy="509.4379"
@@ -17119,7 +17127,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.77907478,0,0,0.74661333,347.77176,238.63349)"
-         d="m 389.60936,509.4379 c 0,7.36341 -5.72051,13.33264 -12.77712,13.33264 -7.0566,0 -12.77711,-5.96923 -12.77711,-13.33264 0,-7.36342 5.72051,-13.33264 12.77711,-13.33264 7.05661,0 12.77712,5.96922 12.77712,13.33264 z"
+         d="m 389.60936,509.4379 a 12.777113,13.33264 0 1 1 -25.55423,0 12.777113,13.33264 0 1 1 25.55423,0 z"
          sodipodi:ry="13.33264"
          sodipodi:rx="12.777113"
          sodipodi:cy="509.4379"
@@ -17350,7 +17358,7 @@
          sodipodi:type="arc" />
     </g>
     <g
-       transform="translate(-331.15256,-483.24715)"
+       transform="translate(-325.1524,-483.24715)"
        style="display:inline"
        id="g4384-0-9-1">
       <path
@@ -18520,7 +18528,7 @@
       </g>
     </g>
     <g
-       transform="translate(-330.80098,-483.20599)"
+       transform="translate(-324.80123,-483.20599)"
        style="display:inline"
        id="g4420-9-2">
       <g
@@ -19054,7 +19062,7 @@
          sodipodi:type="arc" />
     </g>
     <g
-       transform="translate(-331.06965,-483.17696)"
+       transform="translate(-325.0694,-483.17696)"
        style="display:inline"
        id="g4384-0-9">
       <path
