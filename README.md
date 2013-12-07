@@ -32,17 +32,13 @@ You will need a few things installed to be able to run things:
 To get the DXFs follow this example:
 
 
-you@yourpc:~/Console-Game-Enclosures$ make
-
-you@yourpc:~/Console-Game-Enclosures$ cd dxf\_files/
-
-you@yourpc:~/Console-Game-Enclosures/dxf\_files$ make
+you@yourpc:~/Console-Game-Enclosures$ make console1_ALL
 
 
 To make the STL files you can then do the following:
 
 
-you@yourpc:~/Console-Game-Enclosures/dxf\_files$ cd ../stl\_files/
+you@yourpc:~/Console-Game-Enclosures$ cd stl\_files/
 
 you@yourpc:~/Console-Game-Enclosures/stl\_files$ make console1\_ALL
 
