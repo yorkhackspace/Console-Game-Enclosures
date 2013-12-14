@@ -4,7 +4,7 @@
 
 dxf_files/%/Makefile: svg_files/%.svg
 	mkdir -p dxf_files/$*
-	./AutoDXFExtract -o $@ -i $^ -p ../../svg_files
+	./AutoDXFExtract -s 25.4 -o $@ -i $^ -p ../../svg_files
 
 %_ALL: dxf_files/%/Makefile
 	cd dxf_files/$*; make -i -B all
