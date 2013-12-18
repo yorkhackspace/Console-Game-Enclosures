@@ -22,6 +22,44 @@
    inkscape:export-ydpi="90">
   <defs
      id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14656"
+       id="pattern14669"
+       patternTransform="matrix(7.184713,6.9555645,-6.9555645,7.184713,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern14653"
+       id="pattern14656"
+       patternTransform="matrix(7.184713,6.9555645,-6.9555645,7.184713,0,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       id="pattern14653"
+       patternTransform="matrix(7.184713,6.9555645,-6.9555645,7.184713,0,0)" />
+    <pattern
+       inkscape:stockid="Checkerboard"
+       id="Checkerboard"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="2"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect14012"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="fill:black;stroke:none" />
+      <rect
+         id="rect14014"
+         height="1"
+         width="1"
+         y="1"
+         x="1"
+         style="fill:black;stroke:none" />
+    </pattern>
     <linearGradient
        id="linearGradient6419"
        osb:paint="solid">
@@ -3629,17 +3667,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34463477"
-     inkscape:cx="322.33889"
-     inkscape:cy="641.03071"
+     inkscape:zoom="0.88134241"
+     inkscape:cx="514.70025"
+     inkscape:cy="514.66537"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="692"
+     inkscape:window-width="1920"
+     inkscape:window-height="1113"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="40"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -3657,7 +3695,7 @@
      inkscape:label="Print"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
        y="-26.895554"
@@ -12602,7 +12640,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Ply"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:1.76860428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -13202,7 +13240,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Acrylic"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:1.76860428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -13709,7 +13747,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="INFO"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -13909,5 +13947,17 @@
          x="93.307198"
          y="310.00742"
          id="tspan3988-3-0-3">(from back of ply)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="OffLimits">
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       mask="none"
+       clip-path="none"
+       d="m 1,-1.003418 0,1027.562518 1027.5625,0 0,-1027.562518 -1027.5625,0 z m 85.03125,85.03125 857.5,0 0,857.499998 -857.5,0 0,-857.499998 z"
+       id="rect12436"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
