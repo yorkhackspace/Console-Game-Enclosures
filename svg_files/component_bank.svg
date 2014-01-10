@@ -53,17 +53,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6247056"
-     inkscape:cx="114.17202"
-     inkscape:cy="689.41677"
+     inkscape:cx="631.72684"
+     inkscape:cy="262.70224"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1113"
-     inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-height="1047"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -84,7 +84,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Other">
+     inkscape:label="Other"
+     sodipodi:insensitive="true">
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect15414"
@@ -320,7 +321,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Acrylic">
+     inkscape:label="Acrylic"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ff0000;stroke-width:2.6808815;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -450,18 +452,12 @@
        d="m 305.1875,687.21875 c -6.1341,0 -11.28299,4.16226 -12.8125,9.8125 l -19.21875,0 c -1.96299,0 -3.5625,1.59951 -3.5625,3.5625 0,1.96299 1.59951,3.53125 3.5625,3.53125 l 19.25,0 c 1.58128,5.57109 6.70338,9.65625 12.78125,9.65625 7.33843,0 13.28125,-5.94282 13.28125,-13.28125 0,-7.33843 -5.94282,-13.28125 -13.28125,-13.28125 z"
        id="path18766"
        inkscape:connector-curvature="0" />
-    <rect
-       style="fill:none;stroke:#ff0000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect18823"
-       width="92.125984"
-       height="38.976379"
-       x="540"
-       y="662.36218" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="Print">
+     inkscape:label="Print"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ff0000;stroke-width:2.6808815;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1176,7 +1172,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="Info">
+     inkscape:label="Info"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
